@@ -1,3 +1,3 @@
 # jAdminLTE
 
-A java framework for admin based AdminLTE.
+A java web framework for admin based Spring and AdminLTE.
